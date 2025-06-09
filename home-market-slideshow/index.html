@@ -488,9 +488,8 @@
             <h1>Ready to Maximize Your Home's Value?</h1>
             <h2>Get Your Free Home Preparation Consultation</h2>
             <a href="https://ryansylvestri.remax.com/contact.php" target="_blank" style="text-decoration: none;">
-  <button class="cta-button">Schedule Your Free Consultation</button>
-</a>
-
+                <button class="cta-button">Schedule Your Free Consultation</button>
+            </a>
             <div class="contact-info">
                 <p><strong>What You'll Receive:</strong></p>
                 <p>✓ Professional home assessment</p>
@@ -514,6 +513,7 @@
     </div>
 
     <script>
+    document.addEventListener('DOMContentLoaded', function() {
         let currentSlide = 0;
         const slides = document.querySelectorAll('.slide');
 
@@ -532,7 +532,7 @@
             });
         }
 
-        function changeSlide(direction) {
+        window.changeSlide = function(direction) {
             showSlide(currentSlide + direction);
         }
 
@@ -559,7 +559,7 @@
             if (touchEndX < touchStartX - 50) changeSlide(1);
             if (touchEndX > touchStartX + 50) changeSlide(-1);
         }
-    
+    });
     </script>
 </body>
 </html>
