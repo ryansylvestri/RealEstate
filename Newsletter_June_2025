@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hudson Valley Real Estate Update - June 2025</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 40px 20px;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #ffffff;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto 20px auto;
+    }
+    h1 {
+      font-size: 24px;
+      margin: 0;
+      color: #333333;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://ik.imagekit.io/sylvestri/REMAX%20Branding/Remax%20Logo%20Banner%20Large.png?updatedAt=1749735516702" alt="RE/MAX Logo Banner" />
+  
+    <title>Hudson Valley Real Estate Update - June 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .newsletter {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #2c5aa0;
+            padding-bottom: 20px;
+        }
+        .logo-img {
+            max-width: 400px;
+            width: 100%;
+            height: auto;
+            margin: 0 auto 20px;
+            display: block;
+        }
+        h1 {
+            color: #2c5aa0;
+            margin: 0;
+            font-size: 28px;
+        }
+        .subtitle {
+            color: #666;
+            font-size: 16px;
+            margin: 10px 0;
+        }
+        .article {
+            margin-bottom: 40px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 30px;
+        }
+        .article:last-of-type {
+            border-bottom: none;
+        }
+        .article h2 {
+            color: #2c5aa0;
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+        .article-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+        .summary {
+            font-size: 15px;
+            line-height: 1.7;
+            margin-bottom: 15px;
+        }
+        .read-more {
+            background-color: #2c5aa0;
+            color: white;
+            padding: 8px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            font-weight: bold;
+        }
+        .read-more:hover {
+            background-color: #1e3d6f;
+        }
+        .stats-box {
+            background-color: #f0f4f8;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid #2c5aa0;
+        }
+        .stats-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .cta {
+            background: linear-gradient(135deg, #2c5aa0, #1e3d6f);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+        .cta h3 {
+            margin: 0 0 15px 0;
+            font-size: 24px;
+        }
+        .cta p {
+            margin: 0 0 20px 0;
+            font-size: 16px;
+        }
+        .app-button {
+            background-color: white;
+            color: #2c5aa0;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: bold;
+            font-size: 18px;
+            display: inline-block;
+        }
+        .app-button:hover {
+            background-color: #f0f0f0;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #666;
+            font-size: 14px;
+        }
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            .newsletter {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 24px;
+            }
+            .stats-row {
+                flex-direction: column;
+            }
+            .logo-img {
+                max-width: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="newsletter">
+        <div class="header">
+            
+            <h1>Hudson Valley Real Estate Update</h1>
+            <div class="subtitle">Your Local Market Insights | June 2025 Edition</div>
+            <div class="subtitle">Dutchess & Putnam Counties Market Report</div>
+        </div>
+
+        <!-- Article 1: Dutchess County Market Update -->
+        <div class="article">
+            <h2>🏠 Dutchess County Home Prices Rise 6.7% in Strong Market</h2>
+            <img src="https://pplx-res.cloudinary.com/image/upload/v1748887290/pplx_project_search_images/303ebc7ef67a7e440cb563281e07b9fa8d67502c.jpg" alt="Dutchess County real estate market" class="article-image">
+            
+            <div class="stats-box">
+                <div class="stats-row">
+                    <strong>Median Home Price:</strong> <span>$457,496 (+6.7% YoY)</span>
+                </div>
+                <div class="stats-row">
+                    <strong>Price per Sq Ft:</strong> <span>$249</span>
+                </div>
+                <div class="stats-row">
+                    <strong>Market Status:</strong> <span>Neutral Market</span>
+                </div>
+                <div class="stats-row">
+                    <strong>Inventory:</strong> <span>1,158 homes (+6.7% from April)</span>
+                </div>
+            </div>
+            
+            <div class="summary">
+                The Dutchess County real estate market continues to show steady growth with home prices increasing 6.7% year-over-year to a median of $457,496 in May 2025. The market has shifted from a seller's market to a neutral market, indicating more balanced conditions for both buyers and sellers. Inventory levels increased 6.7% from April, providing more options for prospective homebuyers.
+            </div>
+            <a href="https://rocket.com/homes/market-reports/ny/dutchess-county" class="read-more" target="_blank">Read Full Report</a>
+        </div>
+
+        <!-- Article 2: Putnam County Strong Growth -->
+        <div class="article">
+            <h2>📈 Putnam County Sees Impressive 11.6% Price Surge</h2>
+            <img src="https://pplx-res.cloudinary.com/image/upload/v1749816858/pplx_project_search_images/8127aa19f0f576bf77d54a4dbe37f7e9c4495653.jpg" alt="Putnam County homes" class="article-image">
+            
+            <div class="stats-box">
+                <div class="stats-row">
+                    <strong>Median Home Price:</strong> <span>$530,000 (+11.6% YoY)</span>
+                </div>
+                <div class="stats-row">
+                    <strong>Price per Sq Ft:</strong> <span>$313 (+13.2% YoY)</span>
+                </div>
+                <div class="stats-row">
+                    <strong>Days on Market:</strong> <span>30 days (vs 28 last year)</span>
+                </div>
+                <div class="stats-row">
+                    <strong>Market Status:</strong> <span>Buyer's Market</span>
+                </div>
+            </div>
+            
+            <div class="summary">
+                Putnam County is experiencing significant price appreciation with median home prices jumping 11.6% to $530,000 in May 2025. Despite the strong price growth, the market has shifted to favor buyers, with homes selling for 101.8% of list price on average. The robust appreciation reflects continued demand for Hudson Valley properties, particularly those offering privacy and outdoor space.
+            </div>
+            <a href="https://www.redfin.com/county/1984/NY/Putnam-County/housing-market" class="read-more" target="_blank">View Market Data</a>
+        </div>
+
+        <!-- Article 3: Housing Trust Fund Success -->
+        <div class="article">
+            <h2>🏗️ First Affordable Housing Project Completed Through County Trust Fund</h2>
+            <img src="https://pplx-res.cloudinary.com/image/upload/v1749816857/pplx_project_search_images/5daccd3dc53449468b8b291ab206633ff89c417b.jpg" alt="New construction housing" class="article-image">
+            
+            <div class="summary">
+                Dutchess County Executive Sue Serino celebrated the completion of the first affordable housing project funded through the Dutchess County Housing Trust Fund. The three-unit development at 30-32 Smith Street in Poughkeepsie received a $346,134 grant and features modern, energy-efficient 2- and 3-bedroom units. All units have been rented to families earning 60-80% of area median income, demonstrating the program's success in creating accessible housing options in walkable, transit-friendly neighborhoods.
+            </div>
+            <a href="https://communityp.com/news-cpc/smithstreet-poughkeepsie/" class="read-more" target="_blank">Read Success Story</a>
+        </div>
+
+        <!-- Article 4: Housing Rehabilitation Program -->
+        <div class="article">
+            <h2>🔧 Dutchess County Expands Home Rehabilitation Assistance Program</h2>
+            <img src="https://www.debt.org/wp-content/uploads/2020/10/new-york-first-time-homebuyer.jpg" alt="Home rehabilitation assistance" class="article-image">
+            
+            <div class="summary">
+                Great news for homeowners! Dutchess County has expanded its Owner-Occupied Property Rehabilitation Program, now offering up to $40,000 in financial assistance to help more residents make critical home repairs. Previously limited to seniors, the program now includes all income-eligible homeowners, helping families address health, safety, and building code issues including furnaces, plumbing, roofing, electrical systems, and accessibility improvements. This expansion supports the county's commitment to preserving existing housing stock while helping residents age in place safely.
+            </div>
+            <a href="https://www.dutchessny.gov/Departments/County-Executive/46718.htm" class="read-more" target="_blank">Learn About Program</a>
+        </div>
+
+        <!-- Article 5: Mortgage Rates -->
+        <div class="article">
+            <h2>💰 Current Mortgage Rates: What Buyers Need to Know</h2>
+            <img src="https://pplx-res.cloudinary.com/image/upload/v1749816857/pplx_project_search_images/ff7cb4d835bedae706afca2bbc25535939e69de9.jpg" alt="Mortgage rates chart" class="article-image">
+            
+            <div class="stats-box">
+                <div class="stats-row">
+                    <strong>30-Year Fixed:</strong> <span>6.86% (NY Average)</span>
+                </div>
+                <div class="stats-row">
+                    <strong>15-Year Fixed:</strong> <span>5.92%</span>
+                </div>
+                <div class="stats-row">
+                    <strong>Local Credit Union:</strong> <span>6.125% (30-year)</span>
+                </div>
+                <div class="stats-row">
+                    <strong>5-Year ARM:</strong> <span>6.06%</span>
+                </div>
+            </div>
+            
+            <div class="summary">
+                Mortgage rates in New York remain competitive at 6.86% for a 30-year fixed loan, which is 10 basis points below the national average. Local Hudson Valley credit unions are offering rates as low as 6.125% for qualified borrowers. While rates are higher than recent lows, they're stabilizing and many economists expect them to remain in the 6-7% range through 2025. First-time buyers should explore available assistance programs, including grants up to $60,000 for eligible Dutchess County residents.
+            </div>
+            <a href="https://www.zillow.com/mortgage-rates/ny/" class="read-more" target="_blank">Compare Current Rates</a>
+        </div>
+
+        <!-- Call to Action -->
+        <div class="cta">
+            <h3>🚀 Get The Ultimate Home Search Experience</h3>
+            <p>Download my new HomeView mobile app for instant access to MLS listings, market updates, and direct communication with me as your trusted real estate advisor.</p>
+            <a href="https://ryan.realty/HomeViewApp" class="app-button" target="_blank">Download HomeView App</a>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p><strong>Ryan Sylvestri</strong><br>
+            Real Estate Salesperson, Associate Broker & REALTOR®<br>
+            RE/MAX Town and Country<br>
+            584 Route 9, Fishkill, NY 12524<br>
+            <em>Serving Dutchess & Putnam Counties with 10+ Years Experience</em></p>
+            
+            <p style="margin-top: 20px; font-size: 12px;">
+                This newsletter is for informational purposes only. Market data compiled from multiple sources including Redfin, Rocket Homes, and local MLS data. All information believed to be accurate but not guaranteed. 
+            </p>
+        </div>
+    </div>
+</body>
+</html>
